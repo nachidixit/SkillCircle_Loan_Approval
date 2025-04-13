@@ -19,7 +19,6 @@ Loan_Approval_EDA/
 │   └── loan_sanction_test.csv              # Dataset file
      ├── loan_eda.ipynb                     # Jupyter notebook version
 │
-├── main.py                                 # Script to run full analysis
 ├── requirements.txt                        # Python dependencies
 └── README.md                               # Project overview and setup instructions
 ```
