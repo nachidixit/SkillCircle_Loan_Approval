@@ -34,7 +34,7 @@ Loan_Approval_EDA/
    ```
 3. **Place the dataset** in the `data/` folder.
 4. **Run the analysis**:
-   loan_approval_analysis
+   loan_approval_analysis.ipynb
 
 ---
 
