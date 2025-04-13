@@ -15,12 +15,12 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset related t
 ```
 Loan_Approval_EDA/
 │
-├── data/
+├── Loan_Approval/
 │   └── loan_sanction_test.csv              # Dataset file
+     ├── loan_eda.ipynb                     # Jupyter notebook version
 │
 ├── main.py                                 # Script to run full analysis
 ├── requirements.txt                        # Python dependencies
-├── loan_eda.ipynb                          # (Optional) Jupyter notebook version
 └── README.md                               # Project overview and setup instructions
 ```
 
