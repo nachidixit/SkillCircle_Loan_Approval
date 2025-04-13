@@ -34,9 +34,7 @@ Loan_Approval_EDA/
    ```
 3. **Place the dataset** in the `data/` folder.
 4. **Run the analysis**:
-   ```bash
-   python main.py
-   ```
+   loan_approval_analysis
 
 ---
 
